@@ -1,13 +1,14 @@
 export default function Home() {
   return (
-    <div style={{ textAlign: "center", padding: "50px" }}>
-      <h1>My Resume</h1>
-
-      <p>Download / View CV below</p>
-
-      <a href="/resume.pdf" target="_blank">
-        Open Resume (PDF)
-      </a>
+    <div style={{ height: "100vh", margin: 0 }}>
+      <iframe
+        src="/resume.pdf"
+        style={{
+          width: "100%",
+          height: "100vh",
+          border: "none"
+        }}
+      />
     </div>
   );
 }
