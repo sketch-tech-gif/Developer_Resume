@@ -1,9 +1,13 @@
 export default function Home() {
   return (
     <div style={{ textAlign: "center", padding: "50px" }}>
-      <h1>Full Stack Developer Portfolio</h1>
+      <h1>My Resume</h1>
 
-      <a href="/resume">View Resume</a>
+      <p>Download / View CV below</p>
+
+      <a href="/resume.pdf" target="_blank">
+        Open Resume (PDF)
+      </a>
     </div>
   );
 }
