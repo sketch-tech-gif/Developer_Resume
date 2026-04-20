@@ -1,5 +1,11 @@
 # 👨‍💻 Kangogo Evans – Full Stack Developer & Remote Software Engineer
 
+![Full Stack Developer](https://img.shields.io/badge/Full%20Stack-Developer-blue)
+![React](https://img.shields.io/badge/React-Frontend-61DAFB?logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-Backend-3C873A?logo=node.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-Database-4DB33D?logo=mongodb)
+![Status](https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen)
+
 📍 Nairobi, Kenya  
 📞 +254 745 909 218  
 📧 kangogo6074@gmail.com  
@@ -11,123 +17,95 @@
 
 ## 🚀 Professional Summary
 
-Full-Stack Developer with hands-on experience designing, building, and deploying scalable web applications using **React, Node.js, Express, and MongoDB**.
+Full-Stack Developer specializing in **modern web application development using the MERN stack and Next.js**.
 
-Experienced in delivering complete end-to-end solutions including requirements gathering, system design, development, testing, and deployment.
+Experienced in building and deploying **production-ready systems** with focus on:
+- scalable backend architecture  
+- responsive frontend design  
+- secure authentication systems  
+- API integration and debugging  
+- cloud deployment workflows  
 
-Remote-ready developer available across EST/CET time zones with strong ability to build client-focused applications under tight deadlines and budgets.
-
-Strong focus on:
-- Clean, maintainable code
-- API integration
-- Debugging and performance optimization
-- Real-world production deployment
+Remote-ready and capable of working across EST/CET time zones, delivering clean, maintainable, and business-driven solutions under tight deadlines.
 
 ---
 
-## 🧠 Core Technical Skills
+## 🧠 Technical Stack
 
 ### Frontend
-- React.js
-- HTML5, CSS3
-- JavaScript (ES6+)
-- Responsive Web Design
+React.js • Next.js • JavaScript (ES6+) • HTML5 • CSS3 • Responsive UI/UX
 
-### Backend & APIs
-- Node.js
-- Express.js
-- RESTful API Development
-- JWT Authentication
+### Backend
+Node.js • Express.js • REST APIs • JWT Authentication
 
 ### Databases
-- MongoDB
-- Mongoose (Schema Design & Data Modeling)
-- Firebase
+MongoDB • Mongoose • Firebase • SQL (learning/expanding)
 
-### Deployment & Hosting
-- Vercel
-- Render
-- Firebase Hosting
-- Domain & Environment Configuration
+### DevOps & Deployment
+Vercel • Render • Firebase Hosting • Environment Configuration
 
-### Testing & Debugging
-- Postman API Testing
-- Chrome DevTools
-- Manual QA Testing
-- Error Debugging & Trace Analysis
-
-### Tools
-- Git & GitHub
-- VS Code
-- npm / yarn
-- MongoDB Atlas
-- Notion
-- Excel
-- Canva
+### Tools & Workflow
+Git • GitHub • VS Code • Postman • Chrome DevTools • npm/yarn
 
 ### System Design
-- Basic system architecture
-- Requirements analysis
-- ER diagrams (ERD)
-- Use case design
+REST architecture • ER diagrams • basic scalable system design
 
 ---
 
 ## 💼 Professional Experience
 
 ### Freelance Full-Stack Developer & Systems Designer  
-**Self-Employed | Nairobi, Kenya | 2025 – Present**
+**2025 – Present | Self-Employed**
 
-- Built and deployed full-stack web applications for SME clients  
-- Designed backend systems using Node.js, Express.js, and MongoDB  
-- Deployed production-ready applications using Vercel and Render  
-- Translated business requirements into functional software systems  
-- Performed API testing and debugging using Postman and DevTools  
+- Built and deployed full-stack applications for real-world use cases  
+- Designed backend systems using Node.js, Express, and MongoDB  
+- Implemented authentication, APIs, and database models  
+- Converted client requirements into functional digital products  
+- Managed deployment pipelines using Vercel and Render  
 
 ---
 
 ### IT Support Technician (Freelance)  
-**Self-Employed | Nairobi, Kenya | 2025 – Present**
+**2025 – Present | Self-Employed**
 
-- Provided system setup, troubleshooting, and software installation  
-- Assisted users with Microsoft Office and productivity tools  
-- Configured LAN/Wi-Fi networks and router setups  
-- Resolved hardware and software issues ensuring system uptime  
-
----
-
-## 🚀 Selected Projects
-
-### 🛒 TechStore – E-Commerce Web Application  
-https://sketch-tech-electronics.vercel.app  
-
-Full-stack e-commerce platform featuring:
-- User authentication (Login/Register)
-- Product browsing system
-- Responsive UI for all devices
-- Clean UI/UX design
-- Deployment-ready architecture
+- Provided system setup and troubleshooting services  
+- Configured LAN/Wi-Fi networks and router systems  
+- Supported software installation and productivity tools  
+- Resolved hardware/software issues ensuring uptime  
 
 ---
 
-### 🏢 Sketch Tech Solutions – Company Website & Marketplace  
-https://sketchtechsolutions.vercel.app  
+## 🚀 Featured Projects
 
-- Professional company website for tech services brand  
-- Integrated product and service showcase system  
-- Contact and support functionality  
-- Modern responsive UI design  
-- Focus on branding and user experience  
+### 🛒 TechStore – E-Commerce Platform
+🔗 https://sketch-tech-electronics.vercel.app  
+
+**Full-stack ecommerce system built from scratch**
+
+- Secure authentication (login/register system)
+- Product browsing and structured UI
+- Responsive design across all devices
+- Clean architecture with scalable backend
 
 ---
 
-### 🌐 Personal Portfolio Website  
-https://sketch-tech-gif.github.io/my-portfolio  
+### 🏢 Sketch Tech Solutions – Company Platform
+🔗 https://sketchtechsolutions.vercel.app  
 
-- Developer portfolio showcasing projects and skills  
-- Responsive design across all devices  
-- Contact functionality for clients and recruiters  
-- Optimized for performance and accessibility  
+- Business website + service showcase platform  
+- Integrated product/service presentation system  
+- Contact system for client communication  
+- Modern UI/UX with brand-focused design  
+
+---
+
+### 🌐 Developer Portfolio
+🔗 https://sketch-tech-gif.github.io/my-portfolio  
+
+- Personal developer branding website  
+- Project showcase and technical profile  
+- Fully responsive and performance optimized  
+- Direct contact integration  
 
 ---
 
@@ -137,27 +115,26 @@ https://sketch-tech-gif.github.io/my-portfolio
 Co-operative University of Kenya | 2023 – 2025  
 
 - Software development fundamentals  
-- Web development  
 - Database systems  
-- Systems design  
+- Web application development  
+- Systems design principles  
 
 ---
 
-### Kenya Certificate of Secondary Education (KCSE)  
+### KCSE – B Grade  
 Chebara Boys High School | 2019 – 2022  
-Grade: B  
 
 ---
 
-## ⚡ Additional Information
+## ⚡ Key Strengths
 
-- Remote-ready and comfortable working across time zones  
-- Strong communication with technical and non-technical clients  
-- Self-driven full-stack project builder  
-- Strong debugging and problem-solving mindset  
-- Experienced with Git-based workflows  
-- Fast learner with adaptability to new technologies  
-- Focus on clean UI, performance, and usability  
+- Full-stack application development from scratch  
+- Strong debugging and problem-solving ability  
+- API design and integration  
+- Clean and maintainable code practices  
+- Fast learning and adaptability  
+- Strong remote communication skills  
+- Real-world project execution mindset  
 
 ---
 
@@ -170,6 +147,6 @@ Grade: B
 
 ---
 
-## 🎯 Goal
+## 🎯 Career Objective
 
-Seeking opportunities as a **Full Stack Developer / Remote Software Engineer** to build scalable, high-performance web applications.
+Seeking opportunities as a **Full Stack Developer / Remote Software Engineer** to contribute to scalable, production-level applications and high-impact engineering teams.
